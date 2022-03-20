@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WijiPe
-- 👀 I’m interested in cats, badminton, travel and movie.
+- 👀 I’m interested in cats, badminton, travel and movies.
 - 🌱 I’m currently learning Coding!
 
 <!---
