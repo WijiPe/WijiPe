@@ -2,7 +2,7 @@
 - 🌱 I’m a Full-Stack Developer, Wife, and Mother of a son and cats. 
 - 👀 I’m interested in coding, playing video games, playing badminton, and watching movies.
 - 
-### Technologies:
+## Technologies:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -29,7 +29,7 @@ WijiPe/WijiPe is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-## Git-Hub Statistics
+## Github Statistics:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=WijiPe&show_icons=true&theme=synthwave&line_height=27" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WijiPe&theme=synthwave&hide=html,css, shell">
