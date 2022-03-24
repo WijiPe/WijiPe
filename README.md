@@ -1,7 +1,7 @@
 - 👋 Hi, My Name is Wijitra Stevens, or you can call me Wiji!
 - 🌱 I’m a Full-Stack Developer, Wife, and Mother of a son and cats. 
 - 👀 I’m interested in coding, playing video games, playing badminton, and watching movies.
-- 👀 I am currently looking for a job. :)
+- 👀 I am currently looking for a job. :-)
 ## Technologies:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
