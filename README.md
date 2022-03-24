@@ -33,4 +33,5 @@ You can click the Preview link to take a look at your changes.
 <p align="center" style="padding-top: 20px">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=WijiPe&show_icons=true&theme=synthwave&line_height=27" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WijiPe&theme=synthwave&hide=html,css, shell">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=WijiPe&show_icons=true&locale=en&layout=compact&theme=merko&line_height=0"> 
 </p>
