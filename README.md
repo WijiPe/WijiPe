@@ -20,6 +20,9 @@
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+
+<br />
+
 <img src="https://img.shields.io/badge/-POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/-TRELLO-0052CC?style=for-the-badge&logo=trello&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/-EXPRESS-00BF5B?style=for-the-badge&logo=express&logoColor=00BFff"/>
 <!---
 WijiPe/WijiPe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
