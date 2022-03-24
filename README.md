@@ -1,5 +1,5 @@
 - 👋 Hi, My Name is Wijitra Stevens, or you can call me Wiji!
-- 🌱 I’m a Full-Stack Developer experienced in Python, Java, and MERN.
+- 🌱 I’m a Full-Stack Developer, Wife, and Mother of a son and cats. 
 - 👀 I’m interested in coding, playing video games, playing badminton, and watching movies.
 -
 
