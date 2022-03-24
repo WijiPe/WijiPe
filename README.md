@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @WijiPe
-- 👀 I’m interested in cats, badminton, travel and movies.
-- 🌱 I’m currently learning Coding!
+- 👋 Hi, My Name is Wijitra Stevens, or you can call me Wiji!
+- 🌱 I’m a Full-Stack Developer experienced in Python, Java, and MERN.
+- 👀 I’m interested in coding, playing video games, playing badminton, and watching movies.
+-
 
 <!---
 WijiPe/WijiPe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
