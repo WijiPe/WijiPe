@@ -28,3 +28,5 @@
 WijiPe/WijiPe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=WijiPe&show_icons=true&theme=synthwave&line_height=27" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WijiPe&theme=synthwave&hide=html,css, shell">
