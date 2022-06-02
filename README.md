@@ -1,5 +1,5 @@
 - 👋 Hi, My Name is Wijitra Stevens, or you can call me Wiji!
-- 🌱 I’m a Full-Stack Developer, Wife, and Mother of a son and cats. 
+- 🌱 I’m a Full-Stack Developer, Wife, and Mother of 1 son and 2 cats. 
 - 👀 I’m interested in coding, playing video games, playing badminton, and watching movies.
 - 👀 I am currently looking for a job. :-)
 ## Technologies:
